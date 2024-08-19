@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/clicks_senal",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
